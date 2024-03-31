@@ -1,0 +1,33 @@
+.footer {
+  background: linear-gradient(135deg, #4CAF50, #388E3C);
+  color: white;
+  margin-top: 55%;
+  padding: 30px;
+}
+
+.footer h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between; /* Align items side by side */
+  align-items: center; /* Center items vertically */
+}
+
+
+#map {
+  width: 50%; 
+  height: 400px; 
+  margin-right: 100px;
+}
+.social-icons {
+  display: flex;
+  justify-content: flex-end; 
+}
+
+.social-icons li {
+  list-style: none;
+  margin-left: 10px;
+}
